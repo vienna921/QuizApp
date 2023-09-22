@@ -1,0 +1,19 @@
+[
+  {
+    "question": "Which number should be there next in this series? 25, 24, 22, 19, 15",
+    "choices": ["14", "19", "10", "9"],
+    "answer": "10"
+  },
+  {"question": "Eva, twelve years old, is three times as old as her sister. How old will Eva be when she is twice as old as her sister?",
+    "choices": ["16", "8", "14", "20"],
+    "answer": "16"
+  },
+  {"question": "Which one of the five letters is least like the other four?",
+    "choices": ["16", "8", "14", "20"],
+    "answer": "16"
+  },
+  {"question": "Which one of the five letters is least like the other four?",
+    "choices": ["S", "T", "U", "Q"],
+    "answer": "16"
+  },
+]
